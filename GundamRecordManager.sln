@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GundamRecordManager", "GundamRecordManager\GundamRecordManager.csproj", "{3245CB8F-945A-49CA-8899-EAAF67C6675A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3245CB8F-945A-49CA-8899-EAAF67C6675A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3245CB8F-945A-49CA-8899-EAAF67C6675A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3245CB8F-945A-49CA-8899-EAAF67C6675A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3245CB8F-945A-49CA-8899-EAAF67C6675A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB04CEE6-0D56-4C50-B7EC-1DFF34319B83}
+	EndGlobalSection
+EndGlobal
